@@ -1,0 +1,22 @@
+{
+  "countries":[{"countryName":"UK","countryId":1}],
+  "preferredIntake":"SEP_2023",
+  "preferredProgram":"MASTERS",
+  "preferredCourses":[{"courseName":"Computing, Computer Science, Advanced Computer science, Artificial Intelligence , Machine Learning","courseId":32}],
+  "courseDuration":"1-2 years",
+  "budget":"No preference",
+  "studentFinance":["NOT_SURE"],
+  "preferredLocations":[],
+  "preferredColleges":[],
+  "preferenceNotes":"asn asjn dnjasd",
+  "source":null,
+  "isNoPreferenceLocation":true,
+  "isNoPreferenceCollege":true,
+  "mostImportantCriteria":"No Preference",
+  "secondImportantCriteria":null,
+  "preferredCourseDescription":null,
+  "courseSpecialization":["computer science"],
+  "isStudentProfileDetailsDone":null,
+  "hasAlreadyAppliedToUniversity":null,
+  "alreadyAppliedUniversityMethod":null
+}
