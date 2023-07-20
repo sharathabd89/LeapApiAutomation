@@ -4,7 +4,7 @@ public class RandomStudentSpotCounsellingDetails {
     Faker faker = new Faker();
 
  private String assign_Grade;
-    public  String StudentFullName()
+    public  String StudentFullName()//dsds
     {
         String firstName = faker.name().firstName().replaceAll("\\p{Punct}", "");
         String lastName = faker.name().lastName().replaceAll("\\p{Punct}", "");
