@@ -35,7 +35,7 @@ public class RandomStudentSpotCounsellingDetails {
         return Student_Country;
 
     }
-    public String studentScore()
+   /* public String studentScore()
     {
 
         if(assign_Grade.equals("PERCENTAGE"))
@@ -53,7 +53,7 @@ public class RandomStudentSpotCounsellingDetails {
          assign_Grade = grade_types[(int) Math.floor(Math.random() * grade_types.length)];
 
 
-    }
+    }*/
 }
 
 
